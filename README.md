@@ -8,4 +8,4 @@ Three csv files used in this notebook
 * reviews_boston
 
 ## Blog post
-You can find my blog post [here] (https://medium.com/@dongshimiao/do-you-understand-airbnb-activity-of-homestays-in-boston-d9074193a9a6)
+You can find my blog post [here](https://medium.com/@dongshimiao/do-you-understand-airbnb-activity-of-homestays-in-boston-d9074193a9a6)
