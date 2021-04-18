@@ -8,4 +8,4 @@ Three csv files used in this notebook
 * reviews_boston
 
 ## Blog post
-You can find my blog post [here] (https://medium.com/@dongshimiao)
+You can find my blog post [here] (https://medium.com/@dongshimiao))
