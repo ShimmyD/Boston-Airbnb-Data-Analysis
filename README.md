@@ -11,4 +11,4 @@ Three csv files used in this notebook
 You can find my blog post [here](https://medium.com/@dongshimiao/do-you-understand-airbnb-activity-of-homestays-in-boston-d9074193a9a6)
 
 ## GitHub repo Link
-You can find the detailed python code regarding Boston Aribnb analysis [here]
+You can find the detailed python code regarding Boston Aribnb analysis [here](https://github.com/ShimmyD/Boston-Airbnb/blob/master/Boston_Airbnb.ipynb)
