@@ -18,10 +18,10 @@ They are Pandas for dataframe transformation, Numpy for data calcuation, matplot
 
 ## Results summary
 Here are a few main takeways from this analysis:
-•	Waterfront neighbourhood holds the highest listing price on average in Boston
-•	Listing price fluctuates significantly more throughout the year in some neighbourhoods than in others
-•	Location and cleanness of homestay are the most important factors to people. 
-•	Listing price can be predicted with this dataset.
+*	Waterfront neighbourhood holds the highest listing price on average in Boston
+*	Listing price fluctuates significantly more throughout the year in some neighbourhoods than in others
+*	Location and cleanness of homestay are the most important factors to people. 
+*	Listing price can be predicted with this dataset.
 
 
 ## Blog post
