@@ -1,7 +1,7 @@
 # Boston-Airbnb 
 Airbnb started off on a simple idea: affordable accommodations for travellers and some side income for homestay providers. After 14 years, this idea has evolved into a mature online business with hundreds of thousands of online bookings every day. The large amount of booking and review data collected behind scene will reveal some patterns or business insights in this billion-dollar marketplace.
 A few business questions of interest:
-* How are listings distributed in Boston?
+1. How are listings distributed in Boston?
 * How do listing price and booking rate change throughout the year?
 * What do people value the most about their homestays?
 * Can listing price be predicted?
