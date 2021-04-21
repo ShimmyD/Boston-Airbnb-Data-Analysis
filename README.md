@@ -13,7 +13,8 @@ Three csv files used in this notebook
 * reviews_boston: reviews for 2,829 listings from 2009 to 2016
 
 ## Libraries
-There are five main libraries used in this analysis. They are Pandas for dataframe transformation, Numpy for data calcuation, matplotlib for visualization, NLTK for natural language process and Sklearn for modelling.
+There are five main libraries used in this analysis. 
+They are Pandas for dataframe transformation, Numpy for data calcuation, matplotlib for visualization, NLTK for natural language process and Sklearn for modelling.
 
 ## Blog post
 You can find my blog post [here](https://medium.com/@dongshimiao/do-you-understand-airbnb-activity-of-homestays-in-boston-d9074193a9a6)
