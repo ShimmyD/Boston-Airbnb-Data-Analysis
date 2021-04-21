@@ -28,3 +28,7 @@ You can find my blog post [here](https://medium.com/@dongshimiao/do-you-understa
 
 ## GitHub repo Link
 You can find the detailed python code regarding Boston Aribnb analysis [here](https://github.com/ShimmyD/Boston-Airbnb/blob/master/Boston_Airbnb.ipynb)
+
+## Acknowledgements
+* Kaggle
+* Udacity
